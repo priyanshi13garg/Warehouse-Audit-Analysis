@@ -1,0 +1,33 @@
+Objective
+To streamline the audit process and stock management by:
+1. Analyzing the success rate of audits.
+2. Identifying reasons for unsuccessful audits.
+3. Highlighting regional variations in stock deviations.
+
+Key Features
+Audit Performance Summary:
+1. Showcases total audits attempted, success rates, and reasons for unsuccessful audits (client-side and auditor-side issues).
+2. Displays first, second, and third audit attempt success metrics.
+
+Stock Deviation Analysis:
+1. Region-wise analysis of stock deviations with metrics on total inventory, value differences, and deviation percentages.
+2. Highlights significant deviations in stock value for effective corrective actions.
+
+Visualization:
+1. Interactive pie charts, bar graphs, and line charts for easier interpretation of audit and stock deviation data.
+2. Filters for region, SOM, ASM name, and town, enabling granular data exploration.
+
+Tools & Technologies
+1. Looker Studio: For dashboard creation and data visualization.
+2. Data Sources: Integrated data from Google Sheets.
+
+Key Insights
+1. Improved audit success rate tracking with detailed breakdowns by attempt and cause.
+2. Regional patterns in stock deviations help prioritize areas requiring immediate attention.
+3. Enhanced operational efficiency by providing stakeholders with actionable insights.
+
+Outcome
+The dashboard enabled stakeholders to:
+1. Achieve better audit closure rates by addressing the root causes of failures.
+2. Reduce stock discrepancies by focusing on high-deviation regions.
+3. Make informed decisions based on clear, actionable data insights.
